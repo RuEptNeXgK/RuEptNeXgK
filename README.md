@@ -8,14 +8,12 @@
 
 ## 💻 About Me
 
-- 🧑‍💻 Freelance olarak **web developer** hizmeti veriyorum  
-- 🧠 Python, backend mimarileri ve veritabanı tasarımlarıyla aktif olarak ilgileniyorum  
-- 🗄️ SQLite, MongoDB gibi veritabanlarında sistem geliştirme deneyimi  
-- 🌐 Web tarafında HTML, CSS, JavaScript ve PHP ile projeler geliştiriyorum  
-- 🎨 Frontend & Backend arasında full-stack yaklaşımını benimsiyorum  
-- 🚀 Yeni teknolojiler, yazılım trendleri ve optimizasyon tekniklerini takip ediyorum  
-- 💪 Bodybuilding ile ilgileniyorum (2024 Türkiye sağ bilek güreşi 7.’liği)
-
+- 🧑‍💻 Working as a **freelance web developer**
+- 🧠 Interested in Python, backend architecture, and database design
+- 🗄️ Experience with database systems such as SQLite and MongoDB
+- 🌐 Building projects using HTML, CSS, JavaScript, and PHP
+- 🎨 Following a full-stack development approach across frontend and backend
+- 🚀 Passionate about new technologies, software trends, and performance optimization
 ---
 
 ## ⚙️ Tech Stack
