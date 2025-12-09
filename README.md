@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Ahmet 👋!</h1>
 <p align="center">
-  <i>Full-stack oriented developer interested in backend systems, databases, and modern web technologies.</i><br>
-  <i>Tech enthusiast • Problem solver • Continuous learner</i>
+  <i>Full-stack oriented developer focused on backend systems, databases, and modern web technologies.</i><br>
+  <i>Freelancer Web Developer • Tech enthusiast • Problem solver</i>
 </p>
 
 ---
 
 ## 💻 About Me
 
+- 🧑‍💻 Freelance olarak **web developer** hizmeti veriyorum  
 - 🧠 Python, backend mimarileri ve veritabanı tasarımlarıyla aktif olarak ilgileniyorum  
 - 🗄️ SQLite, MongoDB gibi veritabanlarında sistem geliştirme deneyimi  
 - 🌐 Web tarafında HTML, CSS, JavaScript ve PHP ile projeler geliştiriyorum  
@@ -38,9 +39,10 @@
 
 ## 🧩 Areas of Interest
 
+- Freelance web development  
 - Backend development  
 - API design & microservices  
 - Database optimization (SQLite, MongoDB)  
-- Web development (HTML, CSS, JS, PHP)  
-- UI/UX mantığı, modern frontend yaklaşımları  
+- Full-stack web development (HTML, CSS, JS, PHP)  
+- UI/UX mantığı ve modern frontend yaklaşımları  
 - Python otomasyon & script geliştirme  
